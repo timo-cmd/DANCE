@@ -1,0 +1,4 @@
+(define (:domain main))
+(define (var "Hello, World"))
+
+(:print var)
