@@ -1,0 +1,20 @@
+{
+  "name": "twister",
+  "version": "0.0.1",
+  "description": "A numerical computations software built upon Julia macos",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm build && npm run main && docker setup",
+    "test": "npm test"
+  },
+  "author": "Timo Sarkar",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "compiler",
+    "parser"
+  ]
+}
